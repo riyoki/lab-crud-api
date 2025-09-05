@@ -1,13 +1,14 @@
 ### Lab CRUD API
-<!-- PROJECT OVERVIEW -->
-<!--
+
+
+### PROJECT OVERVIEW
 The API provides:
 - Manage 'students' (post, view/get, update, delete)
 - Manage 'courses' (post, view/get, update, delete)
 - MySQL database integration
 - Built with Node.js, Express, and MySQL
 - Can be tested using Postman for sending requests and viewing responses
--->
+
 
 ### Setup Steps
 
